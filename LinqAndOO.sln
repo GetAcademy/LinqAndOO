@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqAndOO", "LinqAndOO\LinqAndOO.csproj", "{30616A1B-9E3D-4DEB-980C-0A87A2CF322A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30616A1B-9E3D-4DEB-980C-0A87A2CF322A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30616A1B-9E3D-4DEB-980C-0A87A2CF322A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30616A1B-9E3D-4DEB-980C-0A87A2CF322A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30616A1B-9E3D-4DEB-980C-0A87A2CF322A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E38764E-54D7-4B56-B958-699E148782F8}
+	EndGlobalSection
+EndGlobal
